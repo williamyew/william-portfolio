@@ -2,7 +2,7 @@
 			<!-- Banner -->
 			<section id="banner">
 				<h2>Welcome</h2>
-				<p>I am Wei Siang. This is my portfolio.</p>
+				<p>I am Wei Siang. This is my portfolio...</p>
 				<ul class="actions">
 					<li><a href="#" class="button special">About Me</a></li>
 					<!-- <li><a href="#" class="button">Learn More</a></li> -->
